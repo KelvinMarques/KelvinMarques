@@ -1,6 +1,6 @@
 # 👋 Olá! Seja bem-vindo ao meu GitHub!
 
-Meu nome é **Kelvin** e sou **Desenvolvedor FullStack** com foco em IA e desenvolvimento web. Sou apaixonado por resolver problemas reais com código e transformar ideias em soluções práticas.
+Meu nome é **Kelvin** e sou **Desenvolvedor FullStack** com foco em IA, automação e desenvolvimento web. Sou apaixonado por resolver problemas reais com código e transformar ideias em soluções práticas.
 
 Formado em **Sistemas de Informação pela FIAP**, atuo com **SQL (Oracle e MySQL)**, **Python**, **Java**, além de tecnologias web como **HTML/CSS, Angular, Bootstrap e TailwindCSS**. Tenho experiência em ambientes corporativos, freelances e projetos pessoais que combinam análise de dados, backend e frontend.
 
